@@ -10,7 +10,7 @@ O desafio que propomos é provisionar uma infraestrutura na AWS, em que se tenha
 - Não tem problema se você não conseguir finalizar tudo! Não deixe de enviar seu desafio por isso!
 
 ## Requisitos
- 1. Utilizar Clean Architectute
+ 1. Utilizar Clean Architecture
  2. Seu desafio precisa estar versionado no Github, em um repositório público.
  3. Documentação é primordial e vamos nos guiar por ela ;)
  4. Um funcionário deve possuir como atributos : Id , Idade , Nome e Cargo<br/>
